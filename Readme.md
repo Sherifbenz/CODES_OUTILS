@@ -1,0 +1,1 @@
+Ce repository va contenir contenir tous les petit code permettant de réaliser les petit trucs du quotidien
